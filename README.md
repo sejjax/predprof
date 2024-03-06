@@ -8,6 +8,7 @@ git clone https://github.com/sejjax/predprof
 ```
 ## Запуск заданий
 ```commandline
+cd predprof
 python ./1.py
 python ./2.py
 python ./3.py
@@ -16,6 +17,7 @@ python ./5.py
 ```
 или
 ```commandline
+cd predprof
 python3 ./1.py
 python3 ./2.py
 python3 ./3.py
